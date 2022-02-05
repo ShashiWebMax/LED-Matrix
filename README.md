@@ -5,8 +5,8 @@
 
 ### How To Build
 **Components**
- - WS281 Addressable LED (strips are easy to set up) - 100
- - ESP 8266
+ - WS2812 Addressable LED (strips are easy to set up) - 100
+ - ESP8266
  - 20k potentiometer
  - Push button
  - 5V Power supply (3A or higher)
@@ -40,3 +40,9 @@ This Display has 4 Modes
 
 **Use the button to switch between modes**
 **Rotate the potentiometer while holding the butten to set the brightness**
+
+## You can use the "LED Matrix.html" file to send display data in the **Display Mode**
+- Open the html file using a web browser on a device connected to the same network as the ESP8266.
+- Put the Ip address in the Server address input box
+- Start sending patterns to draw on the matrix
+
