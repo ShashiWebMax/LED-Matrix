@@ -46,3 +46,5 @@ This Display has 4 Modes
 - Put the Ip address in the Server address input box
 - Start sending patterns to draw on the matrix
 
+### Playing Randoms
+https://user-images.githubusercontent.com/2569954/152650983-864a91d1-d98f-4d92-be46-1660db2066fe.mp4
