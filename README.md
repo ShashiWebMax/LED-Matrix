@@ -1,5 +1,5 @@
 # LED Matrix (100 WS2812 LEDs) 
-
+![Final Product](https://github.com/ShashiWebMax/LED-Matrix/blob/master/photos/final.jpg?raw=true)
 ## 10x10 WS2812 LED grid display controlled with an ESP8266
 
 
@@ -14,7 +14,7 @@
 
 **Building**
 
- - Wire the led grid as shown in the image
+ - Wire the led grid as shown in the image ![Matrix Wiring](https://github.com/ShashiWebMax/LED-Matrix/blob/master/photos/wiring.jpg?raw=true)
  - Connect the Grid Signal in wire to ESP8266 pin D1 (GPIO 5)
  - Connect the potentiometer to the analog input (A0) of the ESP. (Rifer [this](https://www.instructables.com/ESP8266-Using-PWM-With-Potentiometer/) guide for more details)
  - Connect the switch to D0 (GPIO 16) of the ESP and pull it down using the resister. (Fifer [this](https://www.instructables.com/Control-LED-Using-PushButton-With-NodeMCU/) guide for more details)
